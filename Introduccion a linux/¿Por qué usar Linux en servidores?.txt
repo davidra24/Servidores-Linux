@@ -1,0 +1,9 @@
+Por qué usar LInux en servidores?:
+Linux es muy llamativo gracias a que es:
+	- Seguro
+	- Estable
+	- Totalmente personalizable
+	- Constantes actualizaciones
+	- Libre
+	- Gratis
+	- La gran comunidad que lo respalda.
